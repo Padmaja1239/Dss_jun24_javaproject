@@ -7,6 +7,7 @@ public class Test {
 
 		System.out.print("Heloo github");
 		System.out.print("Welcome to GitHub world");
+		System.out.print("Github");
 		
 	}
 
